@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728205070411",
+    "firebase_url": "https://coffeeco-1.firebaseio.com",
+    "project_id": "coffeeco-1",
+    "storage_bucket": "coffeeco-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728205070411:android:9bc7d0b3a6632deca47dce",
+        "android_client_info": {
+          "package_name": "com.example.coffeco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728205070411-mk21gkea8r1v3q801clnolh920ui01b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coffeco",
+            "certificate_hash": "e89e866c4d8473ec832f41c82642a01475639411"
+          }
+        },
+        {
+          "client_id": "728205070411-qm7ve25c1bcl90ejophva6dnlj8g56n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0yvdM_PyUYj0k-L6aOmAoVyJyQMWdLcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728205070411-qm7ve25c1bcl90ejophva6dnlj8g56n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
